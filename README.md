@@ -8,19 +8,19 @@
 
 3. Consultas Básicas - Escreva consultas SQL para realizar as seguintes tarefas:
    
-a) Selecionar todos os registros da tabela "alunos".
+   a) Selecionar todos os registros da tabela "alunos".
 
-b) Selecionar o nome e a idade dos alunos com mais de 20 anos.
+   b) Selecionar o nome e a idade dos alunos com mais de 20 anos.
 
-c) Selecionar os alunos do curso de "Engenharia" em ordem alfabética.
+   c) Selecionar os alunos do curso de "Engenharia" em ordem alfabética.
 
-d) Contar o número total de alunos na tabela
+   d) Contar o número total de alunos na tabela
 
 5. Atualização e Remoção
    
-a) Atualize a idade de um aluno específico na tabela.
+   a) Atualize a idade de um aluno específico na tabela.
 
-b) Remova um aluno pelo seu ID
+   b) Remova um aluno pelo seu ID
 
 ## Parte 2 - Consultas e Funções Agregadas, Atualização e Remoção com Condições e Junção de Tabelas
 
@@ -28,24 +28,24 @@ b) Remova um aluno pelo seu ID
 
 6. Consultas e Funções Agregadas - Escreva consultas SQL para realizar as seguintes tarefas:
    
-a) Selecione o nome e a idade dos clientes com idade superior a 30 anos.
+   a) Selecione o nome e a idade dos clientes com idade superior a 30 anos.
 
-b) Calcule o saldo médio dos clientes.
+   b) Calcule o saldo médio dos clientes.
 
-c) Encontre o cliente com o saldo máximo.
+   c) Encontre o cliente com o saldo máximo.
 
-d) Conte quantos clientes têm saldo acima de 1000.
+   d) Conte quantos clientes têm saldo acima de 1000.
 
 8. Atualização e Remoção com Condições
    
-a) Atualize o saldo de um cliente específico.
+   a) Atualize o saldo de um cliente específico.
 
-b) Remova um cliente pelo seu ID.
+   b) Remova um cliente pelo seu ID.
 
 10. Junção de Tabelas
     
-a) Crie uma segunda tabela chamada "compras" com os campos: id (chave primária), cliente_id (chave estrangeira referenciando o id da tabela "clientes"), produto (texto) e valor (real). 
+   a) Crie uma segunda tabela chamada "compras" com os campos: id (chave primária), cliente_id (chave estrangeira referenciando o id da tabela "clientes"), produto (texto) e valor (real). 
 
-b) Insira algumas compras associadas a clientes existentes na tabela "clientes". 
+   b) Insira algumas compras associadas a clientes existentes na tabela "clientes". 
 
-c) Escreva uma consulta para exibir o nome do cliente, o produto e o valor de cada compra.
+   c) Escreva uma consulta para exibir o nome do cliente, o produto e o valor de cada compra.
