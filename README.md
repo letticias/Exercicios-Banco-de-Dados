@@ -3,18 +3,16 @@
 ## Parte 1 - Criando tabelas, inserindo registros, praticando consultas, atualização e remoção de dados
 
 1. Crie uma tabela chamada "alunos" com os seguintes campos: id (inteiro), nome (texto), idade (inteiro) e curso (texto).
-
 2. Insira pelo menos 5 registros de alunos na tabela que você criou no exercício anterior.
-
 3. Consultas Básicas - Escreva consultas SQL para realizar as seguintes tarefas:
    
    a) Selecionar todos os registros da tabela "alunos".
-
+   
    b) Selecionar o nome e a idade dos alunos com mais de 20 anos.
 
    c) Selecionar os alunos do curso de "Engenharia" em ordem alfabética.
 
-   d) Contar o número total de alunos na tabela
+    d) Contar o número total de alunos na tabela
 
 5. Atualização e Remoção
    
@@ -36,13 +34,13 @@
 
    d) Conte quantos clientes têm saldo acima de 1000.
 
-8. Atualização e Remoção com Condições
+7. Atualização e Remoção com Condições
    
    a) Atualize o saldo de um cliente específico.
 
-   b) Remova um cliente pelo seu ID.
+    b) Remova um cliente pelo seu ID.
 
-10. Junção de Tabelas
+8. Junção de Tabelas
     
    a) Crie uma segunda tabela chamada "compras" com os campos: id (chave primária), cliente_id (chave estrangeira referenciando o id da tabela "clientes"), produto (texto) e valor (real). 
 
